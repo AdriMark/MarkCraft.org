@@ -54,7 +54,14 @@ Coming Soon!
 <div class="toggle-section" id="other">
   <div class="toggle-title">Other</div>
   <div class="toggle-content">
-  Coming Soon!
+    <div class="addon-gallery">
+      <div class="addon-item">
+      <a href="https://mcpedl.com/quiet-tridents/" target="_blank" rel="noopener">
+      <h3>Harder Eye of Ender</h3>
+      <img src="/assets/images/addons/harder_eye_of_ender.webp" alt="A minecraft crafting recipe is shown. It contains an ender pearl, a breeze ball, a prismarine shard, blaze powder, and an echo shard. They craft together into an eye of ender." /> </a>
+      <p>This mod changes the Eye of Ender recipe to require the player visiting many different structures, like the popular meme going around. </p>
+      </div>
+    </div>
   </div>
 </div>
 

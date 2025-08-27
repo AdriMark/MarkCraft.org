@@ -314,7 +314,7 @@ footer {
 
 .addon-gallery img {
   width: 80%; 
-  max-width: 600px; 
+  max-width: 400px; 
   height: auto;
   border-radius: 8px;
   cursor: pointer;
