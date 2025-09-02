@@ -16,7 +16,8 @@ Markcraft isn't just a bedrock SMP though, it's also a community. If you're at a
 ---
 
 ## What Now?
-- [Apply to the server](https://forms.gle/f9vg8Gy7FTozSfuH6)
+- [Join the Discord](https://discord.com/invite/XdpQ7KwQ8x){:target="_blank"}
+- [Apply to the server](https://forms.gle/f9vg8Gy7FTozSfuH6){:target="_blank"}
 - [Check out our map](/map)
 - [About our players](/players)
-- [Our Bedrock Addons and support](/addons)
+- [Our Bedrock Addons and Support](/addons)
