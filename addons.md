@@ -19,7 +19,7 @@ For updates, support, and comissions:
 <div class="addon-gallery">
   <div class="addon-item">
     <a href="https://mcpedl.com/modern-legend/" target="_blank" rel="noopener">
-      <img src="/assets/images/addons/modern_legend_wide.webp" alt="Blocky golden 3D text reading 'MODERN LEGEND' over a Minecraft-style background with water, grassy terrain, and a blue sky." />
+      <img src="/assets/images/addons/modern_legend_markcraft.webp" alt="Blocky golden 3D text reading 'MODERN LEGEND' over a Minecraft-style background with water, grassy terrain, and a blue sky." />
     </a>
     <p>Modern Legend is a mod that expands on Minecraft’s vanilla experience. It adds new content tailored to a variety of playstyles, offering meaningful additions for nearly every type of player.</p>
   </div>
@@ -37,7 +37,7 @@ For updates, support, and comissions:
       <div class="addon-item">
       <a href="https://mcpedl.com/modern-legend/" target="_blank" rel="noopener">
       <h3>Modern Legend</h3>
-      <img src="/assets/images/addons/modern_legend_wide.webp" alt="Blocky golden 3D text reading 'MODERN LEGEND' over a Minecraft-style background with water, grassy terrain, and a blue sky." /> </a>
+      <img src="/assets/images/addons/modern_legend_markcraft.webp" alt="Blocky golden 3D text reading 'MODERN LEGEND' over a Minecraft-style background with water, grassy terrain, and a blue sky." /> </a>
       <p>Modern Legend is a mod that expands on Minecraft’s vanilla experience. It adds new content tailored to a variety of playstyles, offering meaningful additions for nearly every type of player. </p>
       </div>
     </div>
