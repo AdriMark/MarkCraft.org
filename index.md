@@ -11,7 +11,7 @@ Markcraft is a long term Minecraft Bedrock SMP that has been up for 3 years! We 
 
 # More Than a Server
 
-Markcraft isn't just a bedrock SMP though, it's also a community. If you're at all interested in Minecraft then there is something here for you, whether that be, survival, servers, content creation, modding, or even art. We encourage all of our members to share their work and build a better bedrock — Together.
+Markcraft isn't just a bedrock SMP though, it's also a community. If you're at all interested in Minecraft then there is something here for you, whether that be survival, servers, content creation, modding, or even art. We encourage all of our members to share their work and build a better bedrock — Together.
 
 ---
 
