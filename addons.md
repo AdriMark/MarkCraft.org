@@ -14,12 +14,11 @@ For updates, support, and comissions:
 
 ---
 
-## Featured Addon: Coming Soon!
+## Featured Addon: Modern Legend!
 
 <div class="addon-gallery">
   <div class="addon-item">
     <a href="https://mcpedl.com/modern-legend/" target="_blank" rel="noopener">
-      <h3>Modern Legend</h3>
       <img src="/assets/images/addons/modern_legend_wide.webp" alt="Blocky golden 3D text reading 'MODERN LEGEND' over a Minecraft-style background with water, grassy terrain, and a blue sky." />
     </a>
     <p>Modern Legend is a mod that expands on Minecraft’s vanilla experience. It adds new content tailored to a variety of playstyles, offering meaningful additions for nearly every type of player.</p>
