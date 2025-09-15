@@ -5,8 +5,7 @@ title: SMT Mark
 
 # SMT Mark
 
-This player page hasn't been filled out yet. Check back soon!\
-SMT Mark is the owner of MarkCraft! 
+Hello! I'm MARK, I own and keep the MarkCraft server running. I enjoy hanging out and building on the server. I stream on twitch and youtube.
 
 ---
 
