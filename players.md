@@ -46,7 +46,7 @@ These players have made a major impact on the server through videos, builds, art
 
 # Other Players
 
-These players are active community members who contribute to the server with their creativity and presence.
+These players are active community members who contribute to the server with their creativity and presence. Do note that some players may be missing from this list.
 
 <div class="players-grid">
   <div class="player-card">
