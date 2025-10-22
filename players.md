@@ -85,6 +85,12 @@ These players are active community members who contribute to the server with the
     <p>“Don’t listen to me, I am a horrible influence”</p>
   </div>
 
+<div class="player-card">
+      <img src="/assets/images/players/jumble_face.webp" alt="JumbleOfWords" class="player-icon" />
+      <h3>JumbleOfWords</h3>
+    <p>“Nuclear energy is totally lit!”</p>
+  </div>
+
 </div>
 
 ---
