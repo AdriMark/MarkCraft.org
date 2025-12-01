@@ -5,7 +5,7 @@ title: AdriMark
 
 # AdriMark
 
-Hi! I’m one of the co-owners of MarkCraft along with SMT Mark. I make Minecraft videos, stream the server on Twitch, and handle a lot of the community and technical work. You can also find some custom addons I’ve made over on the Addons page.
+Hi! I’m one of the co-owners of MarkCraft along with SMT Mark. I make Minecraft videos, stream the server on Twitch, and handle a lot of the community and technical work.
 
 ---
 
